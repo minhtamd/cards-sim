@@ -1,0 +1,109 @@
+---
+track_selectors: false
+
+# 20,000 is a good limit, will take around 5 seconds
+trials: 8000
+
+# selectors: 10
+# salvation:
+#   shandi: 9 #3.2
+#   azena: 9 # 3.2
+#   nineveh: 7 # 3
+#   balthorr: 8 # 3.1
+#   thirain: 13 # 4.2
+#   wei: 16 # 5
+#   kadan: 9 # 3.2
+  
+card_cost:
+  crystal_cost: 1570
+  card_amount: 7
+  card_cost: 196
+  card_rate: 0.04
+
+  # 0 : 1
+  # 1 : 2
+  # 2 : 4
+  # 3 : 7
+  # 4 : 11
+  # 5 : 16
+
+# me:
+# selectors: 12
+
+# salvation:
+#   shandi: 11 #3.4
+#   azena: 9 # 3.2
+#   nineveh: 8 # 3.1
+#   balthorr: 8 # 3.1
+#   thirain: 13 # 4.2
+#   wei: 16 # 5
+#   kadan: 9 # 3.2
+
+# jacky:
+# selectors: 14
+
+# salvation:
+#   shandi: 16 # 5
+#   azena: 10 # 3.3
+#   nineveh: 16 # 6
+#   balthorr: 10 # 3.2
+#   thirain: 10 # 3.2
+#   wei: 16 # 5
+#   kadan: 6 # 2.2
+
+# kev:
+# selectors: 11
+
+# salvation:
+#   shandi: 6 # 2.2
+#   azena: 12 # 4.1
+#   nineveh: 13 # 4.1
+#   balthorr: 7 # 3
+#   thirain: 16 # 5
+#   wei: 16 # 5
+#   kadan: 16 # 5
+
+# tim:
+# selectors: 13
+
+  # shandi: 11 # 4
+  # azena: 7 # 3
+  # nineveh: 12 # 4.1
+  # balthorr: 12 # 4.1
+  # thirain: 12 # 4.1
+  # wei: 16 # 5
+  # kadan: 9 # 3.2
+
+# gale:
+# selectors: 10
+
+  # shandi: 10 # 3.3
+  # azena: 10 # 3.3
+  # nineveh: 9 # 3.2
+  # balthorr: 8 # 3.1
+  # thirain: 8 # 3.1
+  # wei: 16 # 5
+  # kadan: 4 # 2
+
+# jodi:
+# selectors: 6
+
+  # shandi: 8 # 3.1
+  # azena: 8 # 3.1
+  # nineveh: 7 # 3
+  # balthorr: 14 # 4.3
+  # thirain: 7 # 3
+  # wei: 16 # 5
+  # kadan: 3 # 1.1
+
+# astros:
+selectors: 0
+
+salvation:
+  shandi: 14 # 3.1
+  azena: 16 # 3.1
+  nineveh: 16 # 3
+  balthorr: 16 # 4.3
+  thirain: 16 # 3
+  wei: 16 # 5
+  kadan: 0 # 1.1
